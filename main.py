@@ -56,3 +56,6 @@ visualize.main(triangle_coords = coords, dist_p0=v, personal_space=personal_spac
 #it would be great to be able to click on a point and move it during the simulation
 
 #it's possible that random points stopping now and again makes it more likely for equiblibria to be reached
+
+
+'''
